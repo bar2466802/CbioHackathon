@@ -1,3 +1,10 @@
+#################################################################
+# FILE : histogram.py
+# WRITERS :  Linoy Bushari, Yuval Gabbay, Noa Goldenberg, Bar Melinarskiy, and Yuval Roditi
+# EXERCISE : Algorithms in Computational Biology - 76558 - Hackathon
+# DESCRIPTION: histogram
+#################################################################
+
 import pandas as pd
 from seaborn import histplot
 import seaborn as sns
